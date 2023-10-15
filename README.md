@@ -24,7 +24,7 @@
 
 <h2>Demo</h2>
 
-<p></p>
+<p>https://haiderghadi.github.io/Calculator-App/</p>
 
 <h2>Contact</h2>
 
